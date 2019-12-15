@@ -10,8 +10,8 @@ Short version:
 3. Optimization methods
 4. `PCA` and `KNN` on `MNIST`
 5. Titanic things
-6. Shallow neural networks
-- part 1  -  ✔️
-- part 2
-7. Deep ~~Dark Fantasy~~ neural networks
+6. Shallow neural networks  —  ✔️
+- part 1  —  ✔️
+- part 2  —  ✔️
+7. Deep ~~dark fantasy~~ neural networks
 
